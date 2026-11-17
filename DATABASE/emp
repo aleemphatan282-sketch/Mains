@@ -1,1 +1,7 @@
-
+use  Employee
+go
+ 
+Create table emp
+(
+  emp_id int,
+  emp_name varchar(50))
